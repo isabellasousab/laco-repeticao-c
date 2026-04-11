@@ -6,9 +6,9 @@ O programa deve:
 -calcular e exibir a tabuada desse número;
 
 Regras da atividade
-utilizar estrutura de repetição para exibir os cálculos;
-apresentar cada operação de forma organizada;
-mostrar a tabuada completa do número informado pelo usuário.
+- utilizar estrutura de repetição(while ou do/while) para exibir os cálculos;
+- apresentar cada operação de forma organizada;
+- mostrar a tabuada completa do número informado pelo usuário.
 
 Observação: Vestigios de uso de IA, atividade zerada, 
 ou código copiado de terceiros sem a devida citação, serão penalizados.
